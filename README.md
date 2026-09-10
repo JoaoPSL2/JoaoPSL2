@@ -5,7 +5,7 @@ Estudante de **Sistemas de Informação** na Faculdade Impacta Tecnologia, focad
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Graduação:** Bacharelado em Sistemas de Informação — Faculdade Impacta Tecnologia.
+- 🎓 **Graduação:** Cursando Bacharelado em Sistemas de Informação — Faculdade Impacta Tecnologia.
 - 🎯 **Objetivo:** Buscando oportunidade de estágio na área de Tecnologia / Desenvolvimento de Software.
 - 💡 **Interesses:** Desenvolvimento de Software, Ferramentas No-Code/Low-Code, Automações (n8n), APIs, Bancos de Dados e UX/UI.
 - 💼 **Experiência Profissional:** Atuação prévia como Assistente Administrativo (Aprendiz) no Atacadão, com experiência em análise de dados financeiros, organização de relatórios e utilização avançada do Microsoft Excel.
