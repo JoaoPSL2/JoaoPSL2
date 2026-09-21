@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Pedro Silva Lopes 👋
+# Olá! Eu sou o João Pedro 👋
 
 Estudante de **Sistemas de Informação** na Faculdade Impacta Tecnologia, focado em desenvolvimento de software, automação de processos, integração de APIs e criação de soluções eficientes.
 
