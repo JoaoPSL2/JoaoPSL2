@@ -14,10 +14,10 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDd2NGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjdjMCAxLjctMy42IDMtOCAzUzQgOC43IDQgN3oiLz48cGF0aCBkPSJNNCAxM3Y0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTRjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6Ii8+PC9zdmc+" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNyA3bDQgNS00IDVoMi42bDIuNy0zLjQgMi43IDMuNEgxOGwtNC01IDQtNWgtMi42bC0yLjcgMy40TDEwIDd6IiBmaWxsPSIjMjE3MzQ2Ii8+PC9zdmc+" alt="Excel">
+  <a href="https://github.com/JoaoPSL2"><img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL"></a>&nbsp;
+  <a href="https://github.com/JoaoPSL2"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python"></a>&nbsp;
+  <a href="https://github.com/JoaoPSL2"><img src="icons/appsscript.svg" width="48" height="48" alt="Google Apps Script" title="Google Apps Script"></a>&nbsp;
+  <a href="https://github.com/JoaoPSL2"><img src="icons/excel.svg" width="48" height="48" alt="Excel" title="Excel"></a>
 </p>
 
 **Também estudo:** n8n, APIs, Git/GitHub, FlutterFlow, Xano, Figma, HTML e CSS.
